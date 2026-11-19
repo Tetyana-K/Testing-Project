@@ -1,0 +1,32 @@
+<Solution>
+  <Folder Name="/Dummy demo/">
+    <Project Path="Order Service/Order Service.csproj" Id="c626c0b2-72e6-4e15-a495-a3dbca8283b5" />
+    <Project Path="OrderService.Tests/OrderService.Tests.csproj" Id="7894c7e7-904d-4cac-b5ed-efbe329bbc98" />
+  </Folder>
+  <Folder Name="/Fake demo/">
+    <Project Path="UserRepository.Tests/UserRepository.Tests.csproj" Id="b4b68ba8-2ac0-4a31-a528-1a028d2bfe60" />
+    <Project Path="UserRepository/UserRepository.csproj" Id="dc4cad79-56d2-4713-83a5-98aa9d9aefe9" />
+  </Folder>
+  <Folder Name="/Mock demo/">
+    <Project Path="Discount Service/Discount Service.csproj" Id="85890511-8880-4692-af4a-08bdd72a3e8f" />
+    <Project Path="DiscountService.Tests/DiscountService.Tests.csproj" Id="aefa6e86-9ed5-4865-b01f-a994cc4d494d" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Readme.md" />
+  </Folder>
+  <Folder Name="/Spy demo/">
+    <Project Path="OrderSerrvice2.Tests/OrderSerrvice2.Tests.csproj" Id="c932381e-030b-4055-9954-f1fb7ecff76d" />
+    <Project Path="OrderService for Spy/OrderService for Spy.csproj" Id="31897a33-4e81-4b79-a2c1-9b8a0d91655c" />
+  </Folder>
+  <Folder Name="/Stub demo/">
+    <Project Path="OrderService.StubTests/DiscountService.StubTests.csproj" Id="5cb26ec7-bd38-49d0-8e32-c2869bf38a83" />
+  </Folder>
+  <Folder Name="/Unit tests ex/">
+    <Project Path="Calculator/Calculator.csproj" />
+    <Project Path="CalculatorTest/Calculator.Tests.csproj" />
+    <Project Path="TestProject1/TestProject1.csproj" Id="b214abe9-5da1-4256-8d67-165b445bf2ae" />
+    <Project Path="UserValidator.Tests/UserValidator.Tests.csproj" Id="8ba7b579-2c28-4cc5-9632-3fa9dd5f0180" />
+    <Project Path="UserValidator/UserValidator.csproj" Id="63e70668-01c7-4fe0-b8bd-afe381c8dd78" />
+  </Folder>
+  <Project Path="Testing-Project/Testing-Project.csproj" />
+</Solution>
